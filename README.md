@@ -7,18 +7,18 @@
 - Hemant Mukhiya(2401201013)
 - Mohak Verma(2401201045)
 
-# Project Description\
+# Project Description
 HOME GLOW is a web-based platform designed to bridge the gap between households and reliable local service providers, including electricians, plumbers, maids, carpenters, and home nurses. In an age where convenience and trust are paramount, this project aims to offer a streamlined and transparent solution for booking verified professionals for day-to-day services.
 
 # Features
-Profile creation for users and service providers.
-Booking calendar and scheduling system.
-Secure login, signup, and payment gateway integration.
-Rating and review system for service verification.
+- Profile creation for users and service providers.
+- Booking calendar and scheduling system.
+- Secure login, signup, and payment gateway integration.
+- Rating and review system for service verification.
 
 # Technologies Used
-Front end- HTML,CSS,JAVASCRIPT
-Backend - React.js,node.js,SQL,PHP
+- Front end- HTML,CSS,JAVASCRIPT
+- Backend - React.js,node.js,SQL,PHP
 
 # Video Explanation
 https://drive.google.com/file/d/1Lfo8kXHVXRbU6xwwMDgeksjjH1p8nL-B/view?usp=drivesdk 

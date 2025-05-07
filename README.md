@@ -21,11 +21,15 @@ HOME GLOW is a web-based platform designed to bridge the gap between households 
 - Backend - React.js,node.js,SQL,PHP
 
 # Video Explanation
-https://drive.google.com/file/d/1Lfo8kXHVXRbU6xwwMDgeksjjH1p8nL-B/view?usp=drivesdk 
+[click here to view the project presentation](https://drive.google.com/file/d/1Lfo8kXHVXRbU6xwwMDgeksjjH1p8nL-B/view?usp=drivesdk )
 
 # Project Presentation
-https://docs.google.com/presentation/d/173zo0wXEUjVWIZR_vICfaWAvXno26_Np/edit?slide=id.p1#slide=id.p1
+[click here to view the project Presentation](https://docs.google.com/presentation/d/173zo0wXEUjVWIZR_vICfaWAvXno26_Np/edit?slide=id.p1#slide=id.p1)
 
 # Website
+Project Codes -
+https://drive.google.com/file/d/14f2etYX7CnjLLXbrK5HuVA1dLvAr4O2x/view?usp=drivesdk 
 
+# Project Report
+[click here to view the project report](https://docs.google.com/document/d/1QeLjbXogBQDpcEBi_iihBAXCh3SuYV50/edit?usp=sharing&ouid=110116574475931993093&rtpof=true&sd=true)
 

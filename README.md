@@ -27,5 +27,5 @@ https://drive.google.com/file/d/1Lfo8kXHVXRbU6xwwMDgeksjjH1p8nL-B/view?usp=drive
 https://docs.google.com/presentation/d/173zo0wXEUjVWIZR_vICfaWAvXno26_Np/edit?slide=id.p1#slide=id.p1
 
 # Website
-[Click here to visit the website](https://github.com/Harinand07/Harinand_S_BCA_HomeGlow/edit/main/README.md)
+
 

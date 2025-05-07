@@ -1,11 +1,11 @@
 # Harinand_S_BCA_HomeGlow
 
 # Team Members
-Harinand S Parayil(2401201056)
-Abhiraj Srivastava(2401201132)
-Kushagra Verma(2401201044)
-Hemant Mukhiya(2401201013)
-Mohak Verma(2401201045)
+- Harinand S Parayil(2401201056)
+- Abhiraj Srivastava(2401201132)
+- Kushagra Verma(2401201044)
+- Hemant Mukhiya(2401201013)
+- Mohak Verma(2401201045)
 
 # Project Description\
 HOME GLOW is a web-based platform designed to bridge the gap between households and reliable local service providers, including electricians, plumbers, maids, carpenters, and home nurses. In an age where convenience and trust are paramount, this project aims to offer a streamlined and transparent solution for booking verified professionals for day-to-day services.
